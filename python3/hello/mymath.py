@@ -2,7 +2,8 @@ def square(x):
     """
     Square a number.
     """
-    return x**2
+    res = x**2
+    return res
 
 
 if __name__ == "__main__":
